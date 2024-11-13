@@ -1,0 +1,8 @@
+projeto-webpack
+├── src
+│   ├── index.js
+│   ├── styles.css
+├── dist
+│   └── index.html
+├── webpack.config.js
+└── package.json
