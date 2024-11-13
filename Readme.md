@@ -2,13 +2,13 @@
 
 Este repositório documenta e exemplifica alguns dos conceitos mais úteis no desenvolvimento avançado com JavaScript. Abaixo estão os tópicos abordados até o momento:
 
-- [**Manipulação de Filesystem**](https://github.com/): Utilização do módulo `fs` para operações com arquivos e diretórios.
+- [**Manipulação de Filesystem**](https://github.com/RaizerTechDev/conceitos-avancados-js/tree/master/arquivo-filesystem): Utilização do módulo `fs` para operações com arquivos e diretórios.
+<br>
+
+- [**Configuração de Webpack**](https://github.com/RaizerTechDev/conceitos-avancados-js/tree/master/configuracao-webpack): Exemplos práticos de como empacotar e otimizar projetos.
 <br>
 
 - [**Testes Automatizados com Jest**](https://github.com/): Como configurar e executar testes para garantir a qualidade do código.
-<br>
-
-- [**Configuração de Webpack**](https://github.com/): Exemplos práticos de como empacotar e otimizar projetos.
 <br>
 
 ***
