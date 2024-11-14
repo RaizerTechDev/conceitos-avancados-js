@@ -11,7 +11,14 @@ Este repositório documenta e exemplifica alguns dos conceitos mais úteis no de
 - [**Testes Automatizados com Jest**](https://github.com/RaizerTechDev/conceitos-avancados-js/tree/master/test-jest): Como configurar e executar testes para garantir a qualidade do código.
 <br>
 
-***
+  <div align="center">
+  
+<img src= "https://media.giphy.com/media/3zSF3Gnr7cxMbi6WoP/giphy.gif" align="center" height="55" width="55"> [Demonstração-Conceitos-JS] <img src= "https://media.giphy.com/media/E5DzZsofmgxc9wjbhX/giphy.gif" align="center" height="35" width="35">
+
+<img height="480em" src="images/conceitos-js-testes-manipucao-configarquivos-github.png"  align="center"> 
+<br>
+
+---
 
 ## Licença
 
@@ -26,4 +33,3 @@ Este repositório documenta e exemplifica alguns dos conceitos mais úteis no de
     <p>&nbsp&nbsp&nbspRafaRz76Dev<br>
     &nbsp&nbsp&nbsp<a href="https://api.whatsapp.com/send/?phone=47999327137">Whatsapp</a>&nbsp;|&nbsp;<a href="https://www.linkedin.com/in/rafael-raizer//">LinkedIn</a>&nbsp;|&nbsp;<a href="https://github.com/RaizerTechDev">GitHub</a>|&nbsp;<a href="https://public.tableau.com/app/profile/rafael.raizer">Tableau</a>|&nbsp;<a href="https://raizertechdev-portfolio.netlify.app/">Portfólio</a>&nbsp;</p>
 </p>
-
