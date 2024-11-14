@@ -18,6 +18,7 @@ Este repositório demonstra o uso do módulo fs (File System) do Node.js para ma
 │ └── dados.json
 │ └── package.json
 ├── README.md
+.
 
 ## Exemplos
 
