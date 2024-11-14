@@ -8,7 +8,7 @@ Este repositório documenta e exemplifica alguns dos conceitos mais úteis no de
 - [**Configuração de Webpack**](https://github.com/RaizerTechDev/conceitos-avancados-js/tree/master/configuracao-webpack): Exemplos práticos de como empacotar e otimizar projetos.
 <br>
 
-- [**Testes Automatizados com Jest**](https://github.com/): Como configurar e executar testes para garantir a qualidade do código.
+- [**Testes Automatizados com Jest**](https://github.com/RaizerTechDev/conceitos-avancados-js/tree/master/test-jest): Como configurar e executar testes para garantir a qualidade do código.
 <br>
 
 ***
